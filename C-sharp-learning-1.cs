@@ -8,8 +8,9 @@ namespace C_sharp_learning_1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Coneole.ReadLine("Hello World");
         }
     }
 }
